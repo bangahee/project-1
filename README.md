@@ -372,7 +372,6 @@ inuseforstudies0516@c4r9s7 project-1 % docker run -d -p 8081:80 \
   -v $(pwd)/app:/usr/share/nginx/html \
   --name test-server-mount project-1-webserver
 303bb300614a7ab982dd217aac2326015286bdc4b765ae0140ddbb6cb9f1b9ce
-inuseforstudies0516@c4r9s7 project-1 % 
 
 http://localhost:8081/
 
@@ -511,7 +510,3 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/********/project-1.git
    b3482cc..4f7bc7d  main -> main
 ```
-
-
-
-
