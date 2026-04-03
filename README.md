@@ -511,9 +511,7 @@ To https://github.com/********/project-1.git
    b3482cc..4f7bc7d  main -> main
 ```
 
-# 추가 설명 (Evaluation Criteria 보완)
-
----
+## 추가 설명 (Evaluation Criteria 보완)
 
 ## 프로젝트 디렉토리 구조 설계 기준
 
